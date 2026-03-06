@@ -33,13 +33,13 @@ A native, AI-powered code editor built from scratch in TypeScript, compiled to n
 
 | Repo | Package | Status | Description |
 |------|---------|--------|-------------|
-| [hone-editor](https://github.com/HoneIDE/hone-editor) | `@honeide/editor` v0.2.0 | Released | Editor component — piece-table buffer, 10 languages via Lezer, LSP + DAP, ghost text, demos on macOS / iOS / Windows / Android / Web |
-| [hone-terminal](https://github.com/HoneIDE/hone-terminal) | `@honeide/terminal` v0.1.0 | Released | Terminal emulator — VT100/xterm, truecolor, mouse tracking, alternate screen, OSC 133, 163 tests |
-| [hone-extensions](https://github.com/HoneIDE/hone-extensions) | `@honeide/extensions` v1.0.0 | Released | Built-in language extensions — TypeScript, Python, Rust, Go, C/C++, HTML/CSS, JSON, Markdown, Git, Docker, TOML/YAML |
-| [hone-themes](https://github.com/HoneIDE/hone-themes) | `@honeide/themes` v1.0.0 | Released | 11 curated themes — VSCode format compatible, WCAG contrast validated, import tools for VSCode + TextMate |
-| [hone-api](https://github.com/HoneIDE/hone-api) | `@honeide/api` v0.1.0 | Released | Public extension API — zero runtime, pure TypeScript types, 452+ type-level tests |
-| [hone-core](https://github.com/HoneIDE/hone-core) | `@honeide/core` v0.1.0 | In Progress | IDE services layer — workspace, file watcher, layered settings, keybindings; git / search / LSP manager and AI provider system (8 adapters) in progress |
-| [hone-ide](https://github.com/HoneIDE/hone-ide) | `@honeide/ide` v0.1.0 | In Progress | Full IDE workbench — shell, file explorer, fuzzy finder, settings UI, AI setup wizard done; editor tabs, git panel, and search coming next |
+| [hone-editor](https://github.com/HoneIDE/editor) | `@honeide/editor` v0.2.0 | Released | Editor component — piece-table buffer, 10 languages via Lezer, LSP + DAP, ghost text, demos on macOS / iOS / Windows / Android / Web |
+| [hone-terminal](https://github.com/HoneIDE/terminal) | `@honeide/terminal` v0.1.0 | Released | Terminal emulator — VT100/xterm, truecolor, mouse tracking, alternate screen, OSC 133, 163 tests |
+| [hone-extensions](https://github.com/HoneIDE/extensions) | `@honeide/extensions` v1.0.0 | Released | Built-in language extensions — TypeScript, Python, Rust, Go, C/C++, HTML/CSS, JSON, Markdown, Git, Docker, TOML/YAML |
+| [hone-themes](https://github.com/HoneIDE/themes) | `@honeide/themes` v1.0.0 | Released | 11 curated themes — VSCode format compatible, WCAG contrast validated, import tools for VSCode + TextMate |
+| [hone-api](https://github.com/HoneIDE/api) | `@honeide/api` v0.1.0 | Released | Public extension API — zero runtime, pure TypeScript types, 452+ type-level tests |
+| [hone-core](https://github.com/HoneIDE/core) | `@honeide/core` v0.1.0 | In Progress | IDE services layer — workspace, file watcher, layered settings, keybindings; git / search / LSP manager and AI provider system (8 adapters) in progress |
+| [hone-ide](https://github.com/HoneIDE/ide) | `@honeide/ide` v0.1.0 | In Progress | Full IDE workbench — shell, file explorer, fuzzy finder, settings UI, AI setup wizard done; editor tabs, git panel, and search coming next |
 | [landing](https://github.com/HoneIDE/landing) | — | Live | Marketing site at [hone.codes](https://hone.codes) |
 
 ---
